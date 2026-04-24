@@ -166,8 +166,12 @@ Using Streamlit Cloud:
 - Add Predictions(ML)
 
 
-  👨‍💻 Author
-  Kousik Chakraborty
-KKAdd predictions (ML)
+ ✍ Author
+
+👤 Kousik Chakraborty
+📧 Email: www.kousik.c.in@gmail.com
+🔗 GitHub Profile: https://github.com/iamkousikc-create18
+🔗 Project Repository: https://github.com/iamkousikc-create18/olympic-data-analysis
+
 👨‍💻 Author
 Byomkesh
