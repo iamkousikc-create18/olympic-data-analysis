@@ -173,5 +173,3 @@ Using Streamlit Cloud:
 🔗 GitHub Profile: https://github.com/iamkousikc-create18
 🔗 Project Repository: https://github.com/iamkousikc-create18/olympic-data-analysis
 
-👨‍💻 Author
-Byomkesh
